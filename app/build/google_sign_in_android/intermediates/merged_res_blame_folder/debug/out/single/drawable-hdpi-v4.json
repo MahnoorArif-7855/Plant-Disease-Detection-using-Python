@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3c986389a5766012929ccf5939a43052\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3c986389a5766012929ccf5939a43052\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3c986389a5766012929ccf5939a43052\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3c986389a5766012929ccf5939a43052\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3c986389a5766012929ccf5939a43052\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    }
+]

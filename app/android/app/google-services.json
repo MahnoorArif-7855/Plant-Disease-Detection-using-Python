@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561092659679",
+    "project_id": "susya-cd6c8",
+    "storage_bucket": "susya-cd6c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561092659679:android:7a43b37c46c74258e45c6a",
+        "android_client_info": {
+          "package_name": "com.FYP.susya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561092659679-udjcvcp7dvihp71fstdfdkte99a3j987.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FYP.susya",
+            "certificate_hash": "80bda2c5747af6099f89911b5f823956b10f0a00"
+          }
+        },
+        {
+          "client_id": "561092659679-35ppo08sc3olg2146j4jn559lgdpduk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqd-yigWBNwRqnCc_G8uqNg6GFWusmdFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561092659679-35ppo08sc3olg2146j4jn559lgdpduk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

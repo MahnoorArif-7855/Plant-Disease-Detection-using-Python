@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3c986389a5766012929ccf5939a43052\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3c986389a5766012929ccf5939a43052\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3c986389a5766012929ccf5939a43052\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\9b25e2bd51a6ea414bdd472859e34c2c\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\FYP\\SUSya\\app\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3c986389a5766012929ccf5939a43052\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]
